@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "Social-Media-All-Access",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}

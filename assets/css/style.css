@@ -1,3 +1,4 @@
+/*Consolidated multiple sections that were unnecessarily repeated*/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -68,7 +69,7 @@ p {
     float: right;
     margin-left: 25px;
 }
-
+/*Combined the content sections */
 .content {
     width: 75%;
     display: inline-block;
@@ -83,7 +84,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/*combined the image sections */
 .content section img {
     max-height: 200px;
 }
